@@ -1,4 +1,4 @@
-[
+{
     "643": {
         "name": "Buôn Ma Thuột",
         "type": "thanh-pho",
@@ -149,4 +149,4 @@
         "code": "657",
         "parent_code": "66"
     }
-]
+}
