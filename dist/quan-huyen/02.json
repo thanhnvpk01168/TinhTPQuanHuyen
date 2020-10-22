@@ -1,4 +1,4 @@
-[
+{
     "024": {
         "name": "Hà Giang",
         "type": "thanh-pho",
@@ -109,4 +109,4 @@
         "code": "035",
         "parent_code": "02"
     }
-]
+}
