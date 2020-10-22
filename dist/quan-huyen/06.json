@@ -1,4 +1,4 @@
-{
+[
     "058": {
         "name": "Bắc Kạn",
         "type": "thanh-pho",
@@ -79,4 +79,4 @@
         "code": "066",
         "parent_code": "06"
     }
-}
+]
